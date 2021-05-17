@@ -1,0 +1,421 @@
+* {
+  box-sizing: content-box;
+  
+}
+
+body{
+  background-color: #6935FD;
+  
+  float: left;
+  border-radius: 0;
+  font-family: 'Girassol', cursive;
+  padding: 2%;
+  
+}
+
+body{
+  height: 1024px;
+  width: 1440px;
+  max-width: 1440px;
+  max-height: 1024px;
+  border-radius: 0px;
+  background: linear-gradient(121.63deg, #875EFF 2.17%, rgba(83, 29, 238, 0.651031) 59.11%, rgba(94, 38, 253, 0.42) 96.81%);
+}
+.Herobg {
+ margin: auto;
+ float: left;
+ height: 1024px;
+ width: 1440px;
+ border-radius: 10px; 
+}
+.Herobg {
+background: linear-gradient(180deg, #FFFFFF 30%, #f8f8f8ea 100%);
+}
+
+
+
+.LogoHousenPosition{
+ float: left;
+ height: 52px;
+ width: 173px;
+ left: 1px;
+ top: px;
+ border-radius: [object Object]px;
+ z-index: 998;
+}
+.LogoHousen{
+  font-family: 'Gorditas', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  cursor: pointer;
+  color: #6935FD;
+  font-size: 46px;
+  z-index: 998;
+
+}
+
+.TopNav{
+   float: left;
+   padding: 15px 0 0 135px;
+   display: block;
+   height: 48px;
+   width: 1305px;
+   z-index: 997;
+
+
+
+ }
+
+
+.NavigationLinks{
+  float: left;
+  padding: 7px 0 0 190px;
+  height: 26px;
+  width: 470px;
+  border-radius: nullpx;
+  z-index: 997
+
+
+}
+.NavigationLinks li{
+  display: inline;
+  list-style: normal;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #272727;
+  padding: 13px;
+  cursor: pointer;
+
+
+}
+.NavigationLinks li:not(:last-of-type){
+margin-right: 30px;
+}
+
+.btn{
+  float: left;
+  padding: 12px 0 0 165px;
+  height: 48px;
+  width: 164px;
+  left: 340px;
+  border-radius: 2px;
+}
+
+.Signup{
+ font-family: Gordita;
+ font-size: 18px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: 26px;
+ letter-spacing: 0em;
+ width: 164px;
+ height: 47px;
+ text-align: center;
+ padding-top:7px;
+ cursor: pointer;
+}
+
+ .Signup{
+   color: #6935FD;
+ }
+
+ .Signup{
+   border: 2px solid #6935FD;
+   box-sizing: border-box;
+   border-radius: 2px;
+
+ }
+
+ .Heading{
+   float: left;
+   height: 70px;
+   width: 636px;
+   padding: 95px 0 0 265px; 
+   border-radius: 0;
+   z-index: 998;
+ }
+ .Heading{  
+   font-family: 'Cabin', sans-serif;
+   font-size: 70px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 70px;
+   letter-spacing: -0.04em;
+   text-align: center;
+ }
+.Heading{
+  color: #272727;
+}
+
+.Subheding{
+  float: left;
+  display: block;
+  height: 76px;
+  width: 570px;
+  padding: 0 0 45px 300px;
+  z-index: 998;
+}
+.Subheding{
+  font-family: 'Zilla Slab', serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #616161;
+  
+
+}
+.Searchbar{
+  float: left;
+  height: 70px;
+  width: 700px;
+  border-radius: 4px;
+  box-shadow: 0px 2px 24px 0px #0000000A;
+  margin: 0 0 0 235px;
+}
+.icon{
+  float: left;
+  height: 16px;
+  width: 16px;
+  border-radius: 0px;
+  padding: 22px 25px 25px 25px;
+}
+
+
+.icon{
+    content: "f002";
+    color: #A8A8A8;
+}
+
+.divider{
+float: left;
+width: 1px;
+height: 42px;
+padding: 13px 0 0 0;
+}
+.divider{
+  background: #F7F7F7;
+  border-radius: 1px;
+}
+
+
+
+.Searchbar input{
+  float: left;
+  height: 68px;
+  width: 389px;
+  margin: 0 0 0 25px;
+  background:  #f1f0f002;
+  border: 0;
+  z-index: 999;
+  
+}
+.Searchbar input{
+  /* Body / Guiding */
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+/* identical to box height, or 100% */
+letter-spacing: -0.02em;
+font-feature-settings: 'ss01' on;
+color: #A8A8A8;
+
+
+
+}
+
+.Searchbar button{
+  float: left;
+  height: 46px;
+  width: 175px;
+  margin: 10.5px 0 0 19px;
+  border-radius: 2px;
+  border: 0px;
+  z-index: 998 ;
+  
+}
+.Searchbar button{
+  background: #6935FD;
+  color: white;
+  font-family: Gordita;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  font-feature-settings: 'ss01' on;
+  cursor: pointer;
+}
+
+
+.Gradientshapes{
+  opacity: 5%;
+  max-width: 0%;
+  max-height: 0%;
+}
+.shape1{
+  /* Shape 1 */
+
+  position: relative;
+  width: 1440px;
+  height: 758px;
+  left: -801.41px;
+  top: -486.54px;
+
+
+  /* Gradients / White */
+
+  background: linear-gradient(180deg, #ffffff 0%, #F8F8F8 100%);
+  transform: rotate(12.46deg);
+}
+
+.shape2{
+
+position: relative;
+width: 1440px;
+height: 758px;
+left: 400.36px;
+top: -183.99px;
+
+/* Gradients / White */
+
+background: linear-gradient(180deg, #ffffff 0%, #F8F8F8 100%);
+transform: rotate(-167.54deg);
+}
+
+.Footer {
+  float: left ;
+  height: 50px;
+  width: 1400px;
+  border-radius: 0px;
+  margin: 444px 0 0 -135px;
+}
+.Footer{
+  box-shadow: 0px 2px 24px 0px #0000000A;
+}
+.Footer{
+  display: flex;
+}
+.Footer div:not(:first-of-type,:last-of-type){
+  margin-right: 20px;
+}
+.Footer div:not(:first-of-type){
+  margin-top: 18px;
+}
+
+.FTlogo{
+  height: 14px;
+  width: 103px;
+  left: 111px;
+  top: 992px;
+  border-radius: 0;
+}
+
+
+.FTlogo{
+  /*styleName: Caption, Small text;*/
+  font-family: Gordita;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin: 13px 0 0 110px;
+  color: #A8A8A8;
+}
+ 
+.About{
+  height: 14px;
+  width: 41px;
+  left: 951px;
+  top: 992px;
+  border-radius: 0;
+}
+.About{
+  /*styleName: Caption, Small text*/
+  font-family: Gordita;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: right;
+  color: #A8A8A8;
+}
+.About{
+  margin-left: 736px;
+}
+
+.FAQ{
+  height: 14px;
+  width: 28px;
+  left: 1012px;
+  top: 992px;
+  border-radius: 0;
+  
+}
+.FAQ{
+  /*styleName: Caption, Small text;*/
+  font-family: Gordita;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: right;
+  color: #A8A8A8;
+}
+
+.Terms{
+  height: 14px;
+  width: 123px;
+  left: 1060px;
+  top: 992px;
+  border-radius: 0;
+  
+}
+.Terms{
+  /*styleName: Caption, Small text;*/
+  font-family: Gordita;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: right;
+  color: #A8A8A8;
+}
+.Policy{
+  height: 14px;
+  width: 88px;
+  left: 1202px;
+  top: 992px;
+  border-radius: 0;
+  
+}
+.Policy{
+  /*styleName: Caption, Small text;*/
+  font-family: Gordita;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: right;
+  color: #A8A8A8;
+}
+
+
+
+
+
+
